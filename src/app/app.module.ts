@@ -15,11 +15,11 @@ import { AuthServiceConfig, GoogleLoginProvider, FacebookLoginProvider } from 'a
 const config = new AuthServiceConfig([
   {
     id: GoogleLoginProvider.PROVIDER_ID,
-    provider: new GoogleLoginProvider('724742447744-6abj3nmo27htskponn569alojvi3270i.apps.googleusercontent.com')
+    provider: new GoogleLoginProvider('Client_Id')
   },
   {
     id: FacebookLoginProvider.PROVIDER_ID,
-    provider:new FacebookLoginProvider('892628317877066')
+    provider:new FacebookLoginProvider('Client_Id')
   }
 ]);
 
