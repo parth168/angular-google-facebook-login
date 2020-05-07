@@ -1,10 +1,13 @@
-### Installation
+## Installation
 
 Install the dependencies
 
 ```sh
 $ npm install
 ```
+
+## Configuration
+Go to `angular-google-facebook-login/src/app/app.module.ts ` and add your Google Client_Id and FaceBook Client_Id
 
 ## Development server
 
