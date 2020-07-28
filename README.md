@@ -1,5 +1,7 @@
 ## Installation
 
+![](http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg | width=100)
+
 Install the dependencies
 
 ```sh
