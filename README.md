@@ -1,6 +1,6 @@
 ## Installation
 
-![](http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg | width=100)
+![](http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg =100x20)
 
 Install the dependencies
 
