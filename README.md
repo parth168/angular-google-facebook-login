@@ -1,7 +1,7 @@
 ## Installation
 
 <p align="center">
-<img src="http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg" height="150" width="150">
+<img src="http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg" height="100" width="100">
 </p>
 
 Install the dependencies
