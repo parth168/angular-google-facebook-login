@@ -1,6 +1,8 @@
 ## Installation
 
-<img src="http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg" align="center" height="150" width="150">
+<div style="text-align:center">
+<img src="http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg" height="150" width="150">
+</div>
 
 Install the dependencies
 
