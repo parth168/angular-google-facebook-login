@@ -1,6 +1,6 @@
 ## Installation
 
-<div style="text-align:center">
+<div style="display:block;text-align:center">
 <img src="http://res.cloudinary.com/dizkwji5k/image/upload/v1595908845/wbdgun6hx6bodvnl55ju.jpg" height="150" width="150">
 </div>
 
